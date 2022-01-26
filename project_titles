@@ -1,0 +1,42 @@
+1.  Wide and Local Area Network Simulation with CPT / Client-Server data transmission demonstration
+2.  disk recovery software with C and Python
+3.  automated remote access script runner with pi - pico and it's enumeration
+4.  program a volatile memory recovering software with C and Python
+5.  Crime Scene Digital Evidence Collection-recovery-analysis-preservation and documentation with Chain-of-custody
+6.  custom script malware/spyware analysis
+7.  Caesar Cipher analysis and making custom cryptography script using C and Python
+8.  Server brute-forcing and SQL injection - attack and analysis
+9.  Use C and Python to enumerate via social platforms and OS-INT script
+10. windows auto-analysis script with C and C++ / C#
+11. Ransomware and Spyware reverse engineering and dissection
+12. Implementing programming knowledge to create and access into target system for forensic analysis
+13. Create a GUI Report generation module / software
+14. Conduct and analyze forensic Imaging of a HDD/SS-D/PD/SD-CARD and report to the Lecturer
+15. Fake phishing pages of popular websites and counter-measures taken by the organization - security analysis
+16. Scripting language virus and trojen creation ( bash - batch - python)
+17. Anti-virus and anti-trojen tactics and defending while incident response
+18. Steganography and Steg-analysis with PNG - JPEG - TXT image files
+19. Cryptographic key design and data transmission using C and Python
+20. Making an End-to-End encryption with symmetric and asymmetric encryption key
+21. Making a bootable usb-stick for live forensic enumeration with open source OSes or CAINE OS. And conduct a live disk imaging process of a hard-disk.
+22. Study virtualization technology and demonstrate a forensic use of it.
+23. Creating a custom OS with open source forensic tools.
+24. FSL – Forensic Science Laboratory heirarchy and officer positions study.
+25. Creating cyber forensic lab terms and policies and standards.
+26. Studying Linux CLI and usages for forensics operations.
+27. Programming forensic recovery and analysis softwares.
+28. programming forensic report making software.
+29. programming GUI crypt and steg-analytic softwares.
+30. embedded systems server data logging Spywares and counter measures for them.
+31. web apps data collection for forensic analysis.
+32. Crime scene sketch and search data storage database with GUI programming in C and Python.
+33. Antispyware monitoring system programming(counter software for Spyware activating camera)
+34. Usb write blocker mechanism study and making one with C or Python.
+35. All files and folders meta-data analysis.
+36. Cyber crime scene response & analysis and reporting.
+37. Creating a chat-bot that resembles an actual human chat.
+38. Creating a botnet trojen (eg: MIRAI botnet) or spyware or virus and deploying it and reversing it for anti-trojen attacks
+39. Decode/Reverse-engineer an apk file and analyze it’s source code
+40. Virtualising Mac OS in virtual-box to understand virtualization techniques and features and study different OSes architecture and forensic uses and features.
+41. Study Metasploit framework and demonstrate a forensic use in android analysis.
+42. Peer to peer facial recognition algorithm using Open CV in C or python.
