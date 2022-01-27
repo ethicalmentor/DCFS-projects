@@ -1,2 +1,3 @@
 # DCFS-projects
 projects and related codes avail...
+Not to be copied please only refer this repository for projects.
