@@ -1,6 +1,6 @@
 dcfldd-1.3.4-1
 
-This repository still miss many files inorder to confirm that the may not
+This repository still miss many files inorder to confirm that the tool may not
 be misused and only make use for reference only...!!!
 
 dcfldd is a modified version of GNU dd.  The major features added
