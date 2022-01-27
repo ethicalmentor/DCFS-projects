@@ -1,5 +1,8 @@
 dcfldd-1.3.4-1
 
+This repository still miss many files inorder to confirm that the may not
+be misused and only make use for reference only...!!!
+
 dcfldd is a modified version of GNU dd.  The major features added
 are hashing, fast disk wiping (through patterns) and status output.
 
@@ -9,3 +12,6 @@ the package, although he is no longer affiliated with the DCFL.
 
 Send any feature requests or ideas to the author at
 <nicholasharbour@yahoo.com>.
+
+Repository owner
+Kishore Karthikeyan A T
