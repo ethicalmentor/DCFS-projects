@@ -1,0 +1,4 @@
+Debian
+>>> apt install htop -y
+Arch
+>>> sudo pacman -S top htop
