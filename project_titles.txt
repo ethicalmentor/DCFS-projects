@@ -40,3 +40,4 @@
 40. Virtualising Mac OS in virtual-box to understand virtualization techniques and features and study different OSes architecture and forensic uses and features.
 41. Study Metasploit framework and demonstrate a forensic use in android analysis.
 42. Peer to peer facial recognition algorithm using Open CV in C or python.
+43. Create a bootable floppy disk with ardino IDE and boot it into your PC and Record the procedure in document format.
